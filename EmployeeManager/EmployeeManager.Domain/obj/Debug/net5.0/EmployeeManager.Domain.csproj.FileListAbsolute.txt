@@ -1,0 +1,12 @@
+E:\LAC_VIET\EmployeeManager\EmployeeManager.Domain\bin\Debug\net5.0\EmployeeManager.Domain.deps.json
+E:\LAC_VIET\EmployeeManager\EmployeeManager.Domain\bin\Debug\net5.0\EmployeeManager.Domain.dll
+E:\LAC_VIET\EmployeeManager\EmployeeManager.Domain\bin\Debug\net5.0\ref\EmployeeManager.Domain.dll
+E:\LAC_VIET\EmployeeManager\EmployeeManager.Domain\bin\Debug\net5.0\EmployeeManager.Domain.pdb
+E:\LAC_VIET\EmployeeManager\EmployeeManager.Domain\obj\Debug\net5.0\EmployeeManager.Domain.csproj.AssemblyReference.cache
+E:\LAC_VIET\EmployeeManager\EmployeeManager.Domain\obj\Debug\net5.0\EmployeeManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\LAC_VIET\EmployeeManager\EmployeeManager.Domain\obj\Debug\net5.0\EmployeeManager.Domain.AssemblyInfoInputs.cache
+E:\LAC_VIET\EmployeeManager\EmployeeManager.Domain\obj\Debug\net5.0\EmployeeManager.Domain.AssemblyInfo.cs
+E:\LAC_VIET\EmployeeManager\EmployeeManager.Domain\obj\Debug\net5.0\EmployeeManager.Domain.csproj.CoreCompileInputs.cache
+E:\LAC_VIET\EmployeeManager\EmployeeManager.Domain\obj\Debug\net5.0\EmployeeManager.Domain.dll
+E:\LAC_VIET\EmployeeManager\EmployeeManager.Domain\obj\Debug\net5.0\ref\EmployeeManager.Domain.dll
+E:\LAC_VIET\EmployeeManager\EmployeeManager.Domain\obj\Debug\net5.0\EmployeeManager.Domain.pdb
